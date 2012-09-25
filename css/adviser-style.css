@@ -1,0 +1,13 @@
+.advisory {
+	position: relative;
+	width: 300px;
+	height: 250px;
+}
+
+.advisory .advice {
+	position: absolute;
+	display: block;
+}
+
+.advisory .advice.advice-top {
+}
